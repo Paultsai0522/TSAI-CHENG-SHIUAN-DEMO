@@ -10,4 +10,5 @@ https://tsai-cheng-shiuan.vercel.app/
 ## Stack
 React
 
-[./Screenshot.png]
+## Screenshot
+![Screenshot](tsai-cheng-shiuan.vercel.app-demo.png)
